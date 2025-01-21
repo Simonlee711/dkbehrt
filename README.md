@@ -1,4 +1,4 @@
-# ICD BERT
+# DK-BEHRT
 
 BERT to explore how representation of diseases are learned inside and outside of EHR datasets.
 
